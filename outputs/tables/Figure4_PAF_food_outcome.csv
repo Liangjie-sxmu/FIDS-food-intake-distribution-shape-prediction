@@ -1,0 +1,47 @@
+food_group,outcome,mean_absolute_error_pp,numerical_negative_control
+fruits,CVD,0.767713277123507,FALSE
+non-starchy vegetables,CVD,0.312257549914846,FALSE
+beans and legumes,CVD,0.312621260536012,FALSE
+nuts and seeds,CVD,0.257306796279917,FALSE
+refined grains,CVD,0.0649596126930817,FALSE
+whole grains,CVD,0.139856473796148,FALSE
+processed meats,CVD,0.00756146444842151,FALSE
+unprocessed red meats,CVD,0.0301353900038463,FALSE
+yoghurt,CVD,,FALSE
+sugar-sweetened beverages,CVD,0.0307684651211285,FALSE
+tea,CVD,0.00555282803903228,FALSE
+total milk,CVD,0.213289389603286,FALSE
+fruits,Stroke,1.073285289342,FALSE
+non-starchy vegetables,Stroke,0.489736880572834,FALSE
+potatoes,Stroke,0.00418053030437532,FALSE
+other starchy vegetables,Stroke,0.00131681223697383,FALSE
+beans and legumes,Stroke,0,TRUE
+nuts and seeds,Stroke,0.011928712332402,FALSE
+refined grains,Stroke,0,TRUE
+whole grains,Stroke,0.0219858120921236,FALSE
+processed meats,Stroke,0.0269110532513,FALSE
+unprocessed red meats,Stroke,0.0355426317215956,FALSE
+seafood,Stroke,0.128454072118617,FALSE
+eggs,Stroke,0.000211651913957272,FALSE
+cheese,Stroke,0.00843314774421378,FALSE
+yoghurt,Stroke,,FALSE
+sugar-sweetened beverages,Stroke,0.0185256296819222,FALSE
+tea,Stroke,0.0106261072468975,FALSE
+total milk,Stroke,0.246605669109998,FALSE
+fruits,Hypertension,0.365479321754893,FALSE
+non-starchy vegetables,Hypertension,0,TRUE
+potatoes,Hypertension,0.0591178726208416,FALSE
+other starchy vegetables,Hypertension,1.19687507521643,FALSE
+beans and legumes,Hypertension,0.0687809851400875,FALSE
+nuts and seeds,Hypertension,0.372813142628425,FALSE
+refined grains,Hypertension,0.0024481397791483,FALSE
+whole grains,Hypertension,0.140518964106664,FALSE
+processed meats,Hypertension,0.0346005300147909,FALSE
+unprocessed red meats,Hypertension,0.047679780428701,FALSE
+seafood,Hypertension,0.0628624331481185,FALSE
+eggs,Hypertension,0.0173929721116797,FALSE
+cheese,Hypertension,0.00452724101514879,FALSE
+yoghurt,Hypertension,,FALSE
+sugar-sweetened beverages,Hypertension,0.0185256296819222,FALSE
+coffee,Hypertension,0.00708250771144144,FALSE
+total milk,Hypertension,0.213289389603286,FALSE

@@ -1,0 +1,58 @@
+source,food_group,food_order,n_units_total,n_units_both_estimable,mean_abs_log_sigma_ratio,median_abs_log_sigma_ratio,max_abs_log_sigma_ratio,mean_signed_log_sigma_ratio,n_very_stable,n_stable,n_moderate,n_unstable,proportion_very_stable_or_stable,min_paired_units_required,source_stability,interpretation
+CHNS,fruits,1,4,4,0.0501494662708042,0.0350223416736469,0.119639097805442,0.0309134663403482,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,fruits,1,39,12,0.231888601914915,0.225593813224601,0.667433906064821,0.153727687093578,3,8,0,1,0.282051282051282,5,stable,Male-female shape differences were small.
+NHANES,fruits,1,8,8,0.162507250648229,0.169723414139589,0.298992776987895,0.0125196518324001,4,4,0,0,1,5,stable,Male-female shape differences were small.
+CHNS,non-starchy vegetables,2,4,4,0.0263612494081071,0.0243682036342422,0.0362956461029733,-0.0263612494081071,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,non-starchy vegetables,2,39,14,0.258198521994141,0.134857065747077,0.998857754426728,-0.0344900689073401,8,3,1,2,0.282051282051282,5,stable,Male-female shape differences were small.
+NHANES,non-starchy vegetables,2,8,8,0.154921597838592,0.140421768256106,0.345250358066199,-0.0508712635150174,4,3,1,0,0.875,5,stable,Male-female shape differences were small.
+CHNS,potatoes,3,4,4,0.0254733491857148,0.0290462941409172,0.043240207028879,-0.0254733491857148,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,potatoes,3,39,7,0.236602466117137,0.181437060219812,0.517603288758496,-0.116837362787969,2,3,1,1,0.128205128205128,5,stable,Male-female shape differences were small.
+NHANES,potatoes,3,8,7,0.418264853396156,0.353257858619606,0.939824526601662,-0.0810578509152677,1,2,2,2,0.375,5,moderate,Male-female shape differences were moderate.
+CHNS,other starchy vegetables,4,4,4,0.0273024498582544,0.0198913177783707,0.0575768358147146,-0.00148596804910296,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,other starchy vegetables,4,39,10,0.266543172712336,0.133687056663665,0.82390082235575,0.0941269773823903,5,1,2,2,0.153846153846154,5,stable,Male-female shape differences were small.
+NHANES,other starchy vegetables,4,8,5,0.518067772278641,0.136970554827004,1.26001270783851,-0.000819209907522263,3,0,0,2,0.375,5,unstable,Male-female shape differences were large.
+CHNS,beans and legumes,5,4,4,0.0147489096931732,0.00711115353206595,0.0444083579650227,-0.00939450577782109,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,beans and legumes,5,39,7,0.173168473556817,0.048725020687211,0.878707950435619,0.165872170952375,6,0,0,1,0.153846153846154,5,stable,Male-female shape differences were small.
+NHANES,beans and legumes,5,8,4,0.377345400620547,0.350285175218293,0.657273872417606,-0.133590057118648,0,1,2,1,0.125,5,not_assessable,Too few paired source units for classification.
+CHNS,nuts and seeds,6,4,4,0.0695033788790776,0.0210711183421005,0.226353218187544,-0.0436732302146943,3,1,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,nuts and seeds,6,39,7,0.266348819317776,0.113612645154037,1.1108694151313,-0.11926584815953,4,2,0,1,0.153846153846154,5,stable,Male-female shape differences were small.
+NHANES,nuts and seeds,6,8,8,0.124361279260147,0.111282343077525,0.310966206323369,0.0574463007239896,6,1,1,0,0.875,5,very_stable,Mean male-female shape difference was very small.
+CHNS,refined grains,7,4,4,0.0360417421822031,0.0426789588183844,0.044414087143216,-0.0360417421822031,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,refined grains,7,39,13,0.210380910668549,0.0959899635832548,0.712117016767919,-0.158843235586891,7,3,1,2,0.256410256410256,5,stable,Male-female shape differences were small.
+NHANES,refined grains,7,8,8,0.251271473624307,0.265129538972714,0.369891636013503,-0.00713658736999121,1,5,2,0,0.75,5,stable,Male-female shape differences were small.
+CHNS,whole grains,8,4,4,0.0412364848726943,0.0518109130337112,0.0538609897948333,0.0162513233041658,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,whole grains,8,39,8,0.234474432553735,0.174744166779168,0.536842237057244,0.134314673145206,3,2,2,1,0.128205128205128,5,stable,Male-female shape differences were small.
+NHANES,whole grains,8,8,8,0.099212086887173,0.0494854627521494,0.272672037983135,-0.00824078544910456,6,2,0,0,1,5,very_stable,Mean male-female shape difference was very small.
+CHNS,processed meats,9,4,4,0.221017860136236,0.153077559068155,0.550342928482714,0.207231163173276,2,1,0,1,0.75,3,stable,Male-female shape differences were small.
+FAO_GIFT,processed meats,9,39,6,0.178932427136011,0.159273551994169,0.369475537355369,0.133596459783766,3,1,2,0,0.102564102564103,5,stable,Male-female shape differences were small.
+NHANES,processed meats,9,8,8,0.260281178042229,0.319348581377045,0.46842591093873,-0.0075158788140139,3,0,5,0,0.375,5,stable,Male-female shape differences were small.
+CHNS,unprocessed red meats,10,4,4,0.0297577748517292,0.0150903592701933,0.0741590151357146,-0.0147772555100052,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,unprocessed red meats,10,39,7,0.162514242004122,0.0813183034980545,0.452729163775932,0.0332699533171467,4,2,1,0,0.153846153846154,5,stable,Male-female shape differences were small.
+NHANES,unprocessed red meats,10,8,4,0.284810235522205,0.153439401166194,0.767850645823083,-0.176401076079818,2,1,0,1,0.375,5,not_assessable,Too few paired source units for classification.
+CHNS,seafood,11,4,4,0.0938519065955621,0.0906152355277576,0.130261569168242,-0.0938519065955621,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,seafood,11,39,9,0.3010268331351,0.216894703463134,0.658283546012608,0.248492882327764,4,1,2,2,0.128205128205128,5,moderate,Male-female shape differences were moderate.
+NHANES,seafood,11,8,5,0.479952991439724,0.502315766413549,0.819274159138222,0.106125847858391,1,0,1,3,0.125,5,moderate,Male-female shape differences were moderate.
+CHNS,eggs,12,4,4,0.0516023318737025,0.0480406371794151,0.101590391407694,0.0516023318737025,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,eggs,12,39,9,0.406042049271961,0.25074153568199,1.43906968901843,0.263107531100943,2,3,3,1,0.128205128205128,5,moderate,Male-female shape differences were moderate.
+NHANES,eggs,12,8,8,0.252095459109963,0.211751826131514,0.598875630875653,0.033476985526607,3,3,1,1,0.75,5,stable,Male-female shape differences were small.
+CHNS,cheese,13,4,0,,,,,0,0,0,0,0,3,not_assessable,Too few paired source units for classification.
+FAO_GIFT,cheese,13,39,6,0.15082738625213,0.0987925977349908,0.356406995929539,0.138825732671578,4,1,1,0,0.128205128205128,5,stable,Male-female shape differences were small.
+NHANES,cheese,13,8,7,0.26805602696122,0.199112268896009,0.524313852592504,-0.061362849393073,3,1,2,1,0.5,5,stable,Male-female shape differences were small.
+CHNS,yoghurt,14,4,4,0.13180018608374,0.120166214649716,0.239952349583781,0.0116339714340238,2,2,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,yoghurt,14,39,6,0.248232044000281,0.247284048231282,0.392033120321589,0.183871688266358,1,3,2,0,0.102564102564103,5,stable,Male-female shape differences were small.
+NHANES,yoghurt,14,8,5,0.558568235012607,0.418434356266308,1.3060766962103,0.391194492506083,1,1,1,2,0.25,5,unstable,Male-female shape differences were large.
+CHNS,sugar-sweetened beverages,15,4,2,0.243237299198103,0.243237299198103,0.464116565629585,-0.220879266431482,1,0,1,0,0.25,3,not_assessable,Too few paired source units for classification.
+FAO_GIFT,sugar-sweetened beverages,15,39,6,0.247385530495806,0.205979953977889,0.640687906861526,0.140855627444428,3,0,2,1,0.0769230769230769,5,stable,Male-female shape differences were small.
+NHANES,sugar-sweetened beverages,15,8,8,0.119629147491272,0.0445536308463319,0.466318355809056,-0.115337147602885,6,0,2,0,0.75,5,very_stable,Mean male-female shape difference was very small.
+CHNS,fruit juices,16,4,0,,,,,0,0,0,0,0,3,not_assessable,Too few paired source units for classification.
+FAO_GIFT,fruit juices,16,39,5,0.141748491557017,0.198399807065043,0.219664841025746,0.0395818989399572,2,3,0,0,0.128205128205128,5,very_stable,Mean male-female shape difference was very small.
+NHANES,fruit juices,16,8,7,0.146655216417851,0.140963372349486,0.358972007099651,-0.117181199089937,5,1,1,0,0.75,5,very_stable,Mean male-female shape difference was very small.
+CHNS,coffee,17,4,0,,,,,0,0,0,0,0,3,not_assessable,Too few paired source units for classification.
+FAO_GIFT,coffee,17,39,5,0.028346637469759,0.0208191205862175,0.0746489678327992,-0.00465465832763607,5,0,0,0,0.128205128205128,5,very_stable,Mean male-female shape difference was very small.
+NHANES,coffee,17,8,7,0.0589838520208057,0.0644900619071642,0.106431750074259,0.0279573373513034,7,0,0,0,0.875,5,very_stable,Mean male-female shape difference was very small.
+CHNS,tea,18,4,1,0.333516815804984,0.333516815804984,0.333516815804984,-0.333516815804984,0,0,1,0,0,3,not_assessable,Too few paired source units for classification.
+FAO_GIFT,tea,18,39,3,0.277130263149681,0.239495712373466,0.495523128281724,0.212882297287113,1,1,1,0,0.0512820512820513,5,not_assessable,Too few paired source units for classification.
+NHANES,tea,18,8,7,0.0931952106984534,0.0753535113851647,0.240006998307965,0.0309830663413981,6,1,0,0,0.875,5,very_stable,Mean male-female shape difference was very small.
+CHNS,total milk,19,4,4,0.049046704059166,0.05043586068378,0.0801681106831271,-0.0240673852171041,4,0,0,0,1,3,very_stable,Mean male-female shape difference was very small.
+FAO_GIFT,total milk,19,39,8,0.123154898835034,0.0709936048378047,0.362860934469961,0.0475228285048606,5,2,1,0,0.17948717948718,5,very_stable,Mean male-female shape difference was very small.
+NHANES,total milk,19,8,7,0.159848588826892,0.147580752867334,0.25466067686495,0.0131040820359156,4,3,0,0,0.875,5,stable,Male-female shape differences were small.

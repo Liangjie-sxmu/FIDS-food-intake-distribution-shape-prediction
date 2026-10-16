@@ -1,0 +1,39 @@
+food_group,n_countries,mean_abs_log_ratio,analysis,stability
+fruits,5,0.451617356777501,Extended,moderate
+fruits,4,0.388235829130729,Primary,moderate
+non-starchy vegetables,4,0.39623765895278,Extended,moderate
+non-starchy vegetables,3,0.446644321822936,Primary,moderate
+whole grains,2,0.0211958040695954,Extended,insufficient
+whole grains,2,0.0211958040695954,Primary,insufficient
+beans and legumes,2,0.224733014591881,Extended,insufficient
+beans and legumes,2,0.224733014591881,Primary,insufficient
+refined grains,5,0.292367977643428,Extended,stable
+refined grains,4,0.262057275986575,Primary,stable
+potatoes,3,0.356146366296423,Extended,moderate
+potatoes,3,0.356146366296423,Primary,moderate
+other starchy vegetables,4,0.475836315179052,Extended,moderate
+other starchy vegetables,3,0.609807853773848,Primary,unstable
+nuts and seeds,1,,Extended,insufficient
+nuts and seeds,1,,Primary,insufficient
+processed meats,3,0.446735475396771,Extended,moderate
+processed meats,2,0.26032939321145,Primary,insufficient
+unprocessed red meats,2,0.0949004223129443,Extended,insufficient
+unprocessed red meats,2,0.0949004223129443,Primary,insufficient
+seafood,3,0.253339128650418,Extended,stable
+seafood,2,0.103551854983102,Primary,insufficient
+eggs,4,0.372511796233141,Extended,moderate
+eggs,3,0.341185280335298,Primary,moderate
+sugar-sweetened beverages,4,0.946055274258429,Extended,unstable
+sugar-sweetened beverages,3,0.527020462720452,Primary,unstable
+fruit juices,1,,Extended,insufficient
+fruit juices,1,,Primary,insufficient
+coffee,1,,Extended,insufficient
+coffee,1,,Primary,insufficient
+tea,2,1.44783828634581,Extended,insufficient
+tea,1,,Primary,insufficient
+cheese,2,0.107207545152821,Extended,insufficient
+cheese,2,0.107207545152821,Primary,insufficient
+yoghurt,1,,Extended,insufficient
+yoghurt,1,,Primary,insufficient
+total milk,2,0.237853437488824,Extended,insufficient
+total milk,2,0.237853437488824,Primary,insufficient

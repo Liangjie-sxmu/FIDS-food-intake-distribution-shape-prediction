@@ -1,0 +1,51 @@
+# Sensitive/private data and local environment files
+.Renviron
+.Renviron.*
+.env
+.env.*
+credentials*
+secrets*
+.ssh/
+id_rsa*
+id_ed25519*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Individual-level or binary/private data formats are not part of this release
+*.rds
+*.RDS
+*.RData
+*.rda
+*.sas7bdat
+*.xpt
+*.sav
+*.dta
+*.parquet
+*.feather
+private-data/
+data-controlled/
+private-config/
+
+# Local R/session/cache files
+.Rhistory
+.Rproj.user/
+.Ruserdata
+renv/library/
+renv/staging/
+
+# Compiled/model temporary files
+*.exe
+*.o
+*.dll
+*.so
+*.dylib
+*.log
+*.tmp
+*.temp
+cmdstan-output/
+cmdstan-temp/
+
+# IMPORTANT: outputs/ is intentionally tracked because these are the
+# reader-facing figures and tables released with the repository.

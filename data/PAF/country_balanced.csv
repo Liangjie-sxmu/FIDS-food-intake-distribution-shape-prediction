@@ -1,0 +1,457 @@
+food_group,outcome,left_out_country,cap_probability,mean_abs_error_M0,negative_control_rr_equals_1
+beans and legumes,CVD,CHN,0.999,0.0006168864209499,False
+beans and legumes,Hypertension,CHN,0.999,0.0001505994255338,False
+eggs,Stroke,CHN,0.999,6.933913637707791e-09,False
+eggs,Hypertension,CHN,0.999,6.13935059207149e-07,False
+fruits,CVD,CHN,0.999,0.0027223489554944,False
+fruits,Stroke,CHN,0.999,0.003639667340698,False
+fruits,Hypertension,CHN,0.999,0.0013614539891495,False
+non-starchy vegetables,CVD,CHN,0.999,0.0008649634460959,False
+non-starchy vegetables,Stroke,CHN,0.999,0.001362462963457,False
+nuts and seeds,CVD,CHN,0.999,4.29674813568759e-05,False
+nuts and seeds,Stroke,CHN,0.999,2.41107210185998e-06,False
+nuts and seeds,Hypertension,CHN,0.999,5.60698592558806e-05,False
+other starchy vegetables,Stroke,CHN,0.999,1.7666827351881e-06,False
+other starchy vegetables,Hypertension,CHN,0.999,0.0003712629044147,False
+potatoes,Stroke,CHN,0.999,2.24521541081213e-08,False
+potatoes,Hypertension,CHN,0.999,2.80894532333209e-05,False
+refined grains,CVD,CHN,0.999,0.0001702913733895,False
+refined grains,Hypertension,CHN,0.999,7.02049610112887e-09,False
+seafood,Stroke,CHN,0.999,3.17164489585242e-05,False
+seafood,Hypertension,CHN,0.999,8.17916262459695e-05,False
+total milk,CVD,CHN,0.999,0.0002704392733444,False
+total milk,Stroke,CHN,0.999,0.0003093878085329,False
+total milk,Hypertension,CHN,0.999,0.0002704392733444,False
+unprocessed red meats,CVD,CHN,0.999,0.0001395031200309,False
+unprocessed red meats,Stroke,CHN,0.999,0.0001672088341797,False
+unprocessed red meats,Hypertension,CHN,0.999,0.0002295519645746,False
+whole grains,CVD,CHN,0.999,0.0011456015168282,False
+whole grains,Stroke,CHN,0.999,0.0002069833868381,False
+whole grains,Hypertension,CHN,0.999,0.0011498107139063,False
+processed meats,CVD,CHN,0.999,1.58722740356554e-05,False
+processed meats,Stroke,CHN,0.999,4.45678073487758e-05,False
+processed meats,Hypertension,CHN,0.999,5.44514813991907e-05,False
+sugar-sweetened beverages,CVD,CHN,0.999,8.429722438696439e-06,False
+sugar-sweetened beverages,Stroke,CHN,0.999,4.84411646806127e-06,False
+sugar-sweetened beverages,Hypertension,CHN,0.999,4.84411646806127e-06,False
+coffee,Hypertension,CHN,0.999,1.90645997755201e-06,False
+tea,CVD,CHN,0.999,5.66863502774462e-05,False
+tea,Stroke,CHN,0.999,0.0001070960343491,False
+other starchy vegetables,Stroke,BEN,0.999,2.64233079860787e-14,False
+other starchy vegetables,Hypertension,BEN,0.999,0.016350267009014,False
+seafood,Stroke,BEN,0.999,0.0013952348871884,False
+seafood,Hypertension,BEN,0.999,0.0006551082088714001,False
+beans and legumes,CVD,BFA,0.999,0.0132466781612418,False
+beans and legumes,Hypertension,BFA,0.999,0.0029175017089011,False
+coffee,Hypertension,BFA,0.999,2.44300675800169e-07,False
+non-starchy vegetables,CVD,BFA,0.999,0.000204323908881,False
+non-starchy vegetables,Stroke,BFA,0.999,0.0003478401774161,False
+nuts and seeds,CVD,BFA,0.999,0.0001588006253735,False
+nuts and seeds,Stroke,BFA,0.999,7.77411082830692e-06,False
+nuts and seeds,Hypertension,BFA,0.999,0.0002219562741592,False
+other starchy vegetables,Stroke,BFA,0.999,8.17261258667656e-10,False
+other starchy vegetables,Hypertension,BFA,0.999,0.0017425733235439,False
+refined grains,CVD,BFA,0.999,0.0011106696858789,False
+refined grains,Hypertension,BFA,0.999,3.84988203949721e-05,False
+seafood,Stroke,BFA,0.999,2.31920878172032e-05,False
+seafood,Hypertension,BFA,0.999,0,False
+whole grains,CVD,BFA,0.999,0.0009502395457435001,False
+whole grains,Stroke,BFA,0.999,0.0001182440747911,False
+whole grains,Hypertension,BFA,0.999,0.0009564286140698001,False
+beans and legumes,CVD,BGD,0.999,0.000988443767782,False
+beans and legumes,Hypertension,BGD,0.999,0.0002097474123791,False
+fruits,CVD,BGD,0.999,0.006241936845072,False
+fruits,Stroke,BGD,0.999,0.0083931985689891,False
+fruits,Hypertension,BGD,0.999,0.0031052443346848,False
+non-starchy vegetables,CVD,BGD,0.999,0.0003727279116365,False
+non-starchy vegetables,Stroke,BGD,0.999,0.0005984256158523,False
+other starchy vegetables,Stroke,BGD,0.999,7.978720844015189e-06,False
+other starchy vegetables,Hypertension,BGD,0.999,0.0006653161338292,False
+potatoes,Stroke,BGD,0.999,7.55044873456123e-05,False
+potatoes,Hypertension,BGD,0.999,0.001367005743765,False
+refined grains,CVD,BGD,0.999,0.0018749790914058,False
+refined grains,Hypertension,BGD,0.999,1.02595321127552e-10,False
+seafood,Stroke,BGD,0.999,0.0021076848702369,False
+seafood,Hypertension,BGD,0.999,0.0008950589351867,False
+potatoes,Stroke,BOL,0.999,3.03133207424366e-09,False
+potatoes,Hypertension,BOL,0.999,0.0006171223869261,False
+refined grains,CVD,BOL,0.999,0.0002392575508755,False
+refined grains,Hypertension,BOL,0.999,2.88367107970089e-11,False
+unprocessed red meats,CVD,BOL,0.999,0.000360564743966,False
+unprocessed red meats,Stroke,BOL,0.999,0.0004307661114116,False
+unprocessed red meats,Hypertension,BOL,0.999,0.0005879238938363,False
+beans and legumes,CVD,BRA,0.999,0.00097542090324,False
+beans and legumes,Hypertension,BRA,0.999,0.0001995750321877,False
+cheese,Stroke,BRA,0.999,0.0001041064855173,False
+cheese,Hypertension,BRA,0.999,5.61671535642128e-05,False
+coffee,Hypertension,BRA,0.999,5.65802943941485e-08,False
+eggs,Stroke,BRA,0.999,7.877967223013371e-09,False
+eggs,Hypertension,BRA,0.999,6.05532293529443e-07,False
+fruits,CVD,BRA,0.999,0.0067895159019816,False
+fruits,Stroke,BRA,0.999,0.009130059777280101,False
+fruits,Hypertension,BRA,0.999,0.0033711415646758,False
+non-starchy vegetables,CVD,BRA,0.999,3.34320362932461e-05,False
+non-starchy vegetables,Stroke,BRA,0.999,5.77065885028483e-05,False
+other starchy vegetables,Stroke,BRA,0.999,4.31378913867686e-07,False
+other starchy vegetables,Hypertension,BRA,0.999,0.0005411782984636,False
+potatoes,Stroke,BRA,0.999,8.002013024421832e-08,False
+potatoes,Hypertension,BRA,0.999,1.08872102484447e-05,False
+processed meats,CVD,BRA,0.999,0.0001414692381915,False
+processed meats,Stroke,BRA,0.999,0.0003822307205225,False
+processed meats,Hypertension,BRA,0.999,0.0004628834864096,False
+refined grains,CVD,BRA,0.999,0.000519524874537,False
+refined grains,Hypertension,BRA,0.999,1.33287959752648e-06,False
+seafood,Stroke,BRA,0.999,1.34107289617713e-06,False
+seafood,Hypertension,BRA,0.999,0.0002880014721725,False
+sugar-sweetened beverages,CVD,BRA,0.999,1.72679660197517e-05,False
+sugar-sweetened beverages,Stroke,BRA,0.999,5.78316860350703e-05,False
+sugar-sweetened beverages,Hypertension,BRA,0.999,5.78316860350703e-05,False
+total milk,CVD,BRA,0.999,0.0005289100109449,False
+total milk,Stroke,BRA,0.999,0.000605665776607,False
+total milk,Hypertension,BRA,0.999,0.0005289100109449,False
+unprocessed red meats,CVD,BRA,0.999,0.0001612777000064,False
+unprocessed red meats,Stroke,BRA,0.999,0.0001957155356746,False
+unprocessed red meats,Hypertension,BRA,0.999,0.000273882383828,False
+non-starchy vegetables,CVD,COD,0.999,0.0005367890609587,False
+non-starchy vegetables,Stroke,COD,0.999,0.0008365347407246,False
+other starchy vegetables,Stroke,COD,0.999,5.98732298184856e-08,False
+other starchy vegetables,Hypertension,COD,0.999,0.0119969651233768,False
+coffee,Hypertension,ETH,0.999,1.28048007752568e-07,False
+non-starchy vegetables,CVD,ETH,0.999,0.0150317130600783,False
+non-starchy vegetables,Stroke,ETH,0.999,0.0236209605050572,False
+refined grains,CVD,ETH,0.999,0.0001764152986485,False
+refined grains,Hypertension,ETH,0.999,9.061318362313388e-11,False
+beans and legumes,CVD,GHA,0.999,0.0029054576146311,False
+beans and legumes,Hypertension,GHA,0.999,0.0006563419907523,False
+non-starchy vegetables,CVD,GHA,0.999,0.0034899814043621,False
+non-starchy vegetables,Stroke,GHA,0.999,0.0055494531878087,False
+other starchy vegetables,Stroke,GHA,0.999,5.953932458169221e-09,False
+other starchy vegetables,Hypertension,GHA,0.999,0.0017124559161115,False
+refined grains,CVD,GHA,0.999,6.77716010966112e-06,False
+refined grains,Hypertension,GHA,0.999,4.07709403804635e-06,False
+seafood,Stroke,GHA,0.999,0.0027769809392505,False
+seafood,Hypertension,GHA,0.999,0.0010573688862883,False
+whole grains,CVD,GHA,0.999,0.000551933717743,False
+whole grains,Stroke,GHA,0.999,6.54162174595907e-05,False
+whole grains,Hypertension,GHA,0.999,0.0005554746580184,False
+coffee,Hypertension,GTM,0.999,1.84054297991398e-06,False
+other starchy vegetables,Stroke,GTM,0.999,3.62900665074051e-09,False
+other starchy vegetables,Hypertension,GTM,0.999,0.0013217444623773,False
+fruits,CVD,IDN,0.999,0.0171466139897787,False
+fruits,Stroke,IDN,0.999,0.0233694008173478,False
+fruits,Hypertension,IDN,0.999,0.008390075822601401,False
+refined grains,CVD,IDN,0.999,0.0006914676767983,False
+refined grains,Hypertension,IDN,0.999,2.88657986402541e-15,False
+tea,CVD,IDN,0.999,6.573004185383979e-08,False
+tea,Stroke,IDN,0.999,1.29401829029874e-07,False
+cheese,Stroke,IND,0.999,3.31540383269324e-06,False
+cheese,Hypertension,IND,0.999,1.78303717013328e-06,False
+fruits,CVD,IND,0.999,0.0045048298695702,False
+fruits,Stroke,IND,0.999,0.0063041350391339,False
+fruits,Hypertension,IND,0.999,0.0021412683847519,False
+non-starchy vegetables,CVD,IND,0.999,0.0003594010392996,False
+non-starchy vegetables,Stroke,IND,0.999,0.0006248912263527,False
+nuts and seeds,CVD,IND,0.999,0.0142684907823516,False
+nuts and seeds,Stroke,IND,0.999,0.0006229889087366,False
+nuts and seeds,Hypertension,IND,0.999,0.0212885290192123,False
+refined grains,CVD,IND,0.999,6.1111327265273e-06,False
+refined grains,Hypertension,IND,0.999,2.22945982808476e-06,False
+total milk,CVD,IND,0.999,0.001037756166316,False
+total milk,Stroke,IND,0.999,0.0012194604608474,False
+total milk,Hypertension,IND,0.999,0.001037756166316,False
+whole grains,CVD,IND,0.999,0.0030699737281783,False
+whole grains,Stroke,IND,0.999,0.0003656964807342,False
+whole grains,Hypertension,IND,0.999,0.0030903307791071,False
+cheese,Stroke,ITA,0.999,5.20603597198299e-05,False
+cheese,Hypertension,ITA,0.999,2.77273050650617e-05,False
+coffee,Hypertension,ITA,0.999,7.691142867027879e-08,False
+fruits,CVD,ITA,0.999,0.0121875900388614,False
+fruits,Stroke,ITA,0.999,0.0177417743046912,False
+fruits,Hypertension,ITA,0.999,0.0055461791641593,False
+non-starchy vegetables,CVD,ITA,0.999,0.0010666976600199,False
+non-starchy vegetables,Stroke,ITA,0.999,0.0016691035901028,False
+nuts and seeds,CVD,ITA,0.999,5.13559724910628e-05,False
+nuts and seeds,Stroke,ITA,0.999,2.77356013267394e-06,False
+nuts and seeds,Hypertension,ITA,0.999,6.84486365074566e-05,False
+other starchy vegetables,Stroke,ITA,0.999,2.62924063942904e-06,False
+other starchy vegetables,Hypertension,ITA,0.999,1.64036492774633e-05,False
+processed meats,CVD,ITA,0.999,7.47897972330769e-07,False
+processed meats,Stroke,ITA,0.999,0.0002797874980989,False
+processed meats,Hypertension,ITA,0.999,0.0003794001529037,False
+refined grains,CVD,ITA,0.999,0.0001511264175486,False
+refined grains,Hypertension,ITA,0.999,4.24069750759593e-07,False
+sugar-sweetened beverages,CVD,ITA,0.999,3.67612318942223e-05,False
+sugar-sweetened beverages,Stroke,ITA,0.999,3.58691504243058e-05,False
+sugar-sweetened beverages,Hypertension,ITA,0.999,3.58691504243058e-05,False
+tea,CVD,ITA,0.999,1.88045609750276e-07,False
+tea,Stroke,ITA,0.999,3.64788784068537e-07,False
+total milk,CVD,ITA,0.999,0.0063563005420356,False
+total milk,Stroke,ITA,0.999,0.0073435808630434,False
+total milk,Hypertension,ITA,0.999,0.0063563005420356,False
+whole grains,CVD,ITA,0.999,0.0003180451863313,False
+whole grains,Stroke,ITA,0.999,4.99034910503848e-05,False
+whole grains,Hypertension,ITA,0.999,0.0003195291362962,False
+total milk,CVD,KEN,0.999,0.0025186300623438,False
+total milk,Stroke,KEN,0.999,0.0029376242018845,False
+total milk,Hypertension,KEN,0.999,0.0025186300623438,False
+beans and legumes,CVD,KEN,0.999,0.0040396025188756,False
+beans and legumes,Hypertension,KEN,0.999,0.0009033414148477,False
+non-starchy vegetables,CVD,KEN,0.999,0.0063432174611167,False
+non-starchy vegetables,Stroke,KEN,0.999,0.009819572106116,False
+other starchy vegetables,Stroke,KEN,0.999,3.28144178496359e-11,False
+other starchy vegetables,Hypertension,KEN,0.999,0.0052910797886265,False
+eggs,Stroke,KNA,0.999,3.23867832774383e-06,False
+eggs,Hypertension,KNA,0.999,0.0002757889113934,False
+other starchy vegetables,Stroke,KNA,0.999,2.63335417882704e-06,False
+other starchy vegetables,Hypertension,KNA,0.999,0.0008079731941955,False
+refined grains,CVD,KNA,0.999,2.18943679886063e-06,False
+refined grains,Hypertension,KNA,0.999,1.47227313929132e-06,False
+refined grains,CVD,LAO,0.999,0.0004686143069996,False
+refined grains,Hypertension,LAO,0.999,3.33577609978875e-12,False
+beans and legumes,CVD,MEX,0.999,0.0040079331334874,False
+beans and legumes,Hypertension,MEX,0.999,0.0008609465761757001,False
+eggs,Stroke,MEX,0.999,7.37715914245207e-07,False
+eggs,Hypertension,MEX,0.999,7.003960559115451e-05,False
+fruits,CVD,MEX,0.999,0.0061671576573467,False
+fruits,Stroke,MEX,0.999,0.0088270998855764,False
+fruits,Hypertension,MEX,0.999,0.0028584537746083,False
+non-starchy vegetables,CVD,MEX,0.999,0.0033025640218602,False
+non-starchy vegetables,Stroke,MEX,0.999,0.0051503272261466,False
+refined grains,CVD,MEX,0.999,0.0005060843211706,False
+refined grains,Hypertension,MEX,0.999,6.3096547708863e-07,False
+total milk,CVD,MEX,0.999,0.0044237852908158,False
+total milk,Stroke,MEX,0.999,0.0050799475899627,False
+total milk,Hypertension,MEX,0.999,0.0044237852908158,False
+sugar-sweetened beverages,CVD,MEX,0.999,0.0002067178638772,False
+sugar-sweetened beverages,Stroke,MEX,0.999,0.00011266353096,False
+sugar-sweetened beverages,Hypertension,MEX,0.999,0.00011266353096,False
+unprocessed red meats,CVD,MEX,0.999,0.0004068267160002,False
+unprocessed red meats,Stroke,MEX,0.999,0.000487727976452,False
+unprocessed red meats,Hypertension,MEX,0.999,0.0006712196050779,False
+beans and legumes,CVD,MYS,0.999,0.0009197185790384001,False
+beans and legumes,Hypertension,MYS,0.999,0.0002221042387419,False
+coffee,Hypertension,MYS,0.999,2.98914778484871e-08,False
+eggs,Stroke,MYS,0.999,2.93871453505012e-07,False
+eggs,Hypertension,MYS,0.999,2.78864728291417e-05,False
+fruits,CVD,MYS,0.999,0.0014271736715331,False
+fruits,Stroke,MYS,0.999,0.0019665748294013,False
+fruits,Hypertension,MYS,0.999,0.0006900223582527,False
+non-starchy vegetables,CVD,MYS,0.999,0.0008330304928861,False
+non-starchy vegetables,Stroke,MYS,0.999,0.0013402165880156,False
+other starchy vegetables,Stroke,MYS,0.999,1.70341721295042e-05,False
+other starchy vegetables,Hypertension,MYS,0.999,0.0001985424817327,False
+potatoes,Stroke,MYS,0.999,1.06639928878494e-05,False
+potatoes,Hypertension,MYS,0.999,7.89077321077247e-05,False
+refined grains,CVD,MYS,0.999,2.27165793953432e-08,False
+refined grains,Hypertension,MYS,0.999,1.06492566431804e-07,False
+seafood,Stroke,MYS,0.999,0.0001548183573955,False
+seafood,Hypertension,MYS,0.999,7.61020117432398e-05,False
+tea,CVD,MYS,0.999,1.48389861509557e-08,False
+tea,Stroke,MYS,0.999,2.89345460924295e-08,False
+total milk,CVD,MYS,0.999,0.0014790593802867,False
+total milk,Stroke,MYS,0.999,0.001691122422054,False
+total milk,Hypertension,MYS,0.999,0.0014790593802867,False
+unprocessed red meats,CVD,MYS,0.999,3.27890130047415e-07,False
+unprocessed red meats,Stroke,MYS,0.999,3.99610270762629e-07,False
+unprocessed red meats,Hypertension,MYS,0.999,5.62766195200126e-07,False
+whole grains,CVD,MYS,0.999,0.0007079764251088,False
+whole grains,Stroke,MYS,0.999,0.0001156607832407,False
+whole grains,Hypertension,MYS,0.999,0.00071109381802,False
+fruits,CVD,NGA,0.999,0.0026931397435671,False
+fruits,Stroke,NGA,0.999,0.0036105444491261,False
+fruits,Hypertension,NGA,0.999,0.0013442939493684,False
+other starchy vegetables,Stroke,NGA,0.999,4.44524306253413e-10,False
+other starchy vegetables,Hypertension,NGA,0.999,0.0081163345556595,False
+seafood,Stroke,NGA,0.999,0.0027868870566367,False
+seafood,Hypertension,NGA,0.999,0.0015094230745706,False
+unprocessed red meats,CVD,NGA,0.999,0.0001490958841787,False
+unprocessed red meats,Stroke,NGA,0.999,0.0001772429229207,False
+unprocessed red meats,Hypertension,NGA,0.999,0.0002403636943044,False
+whole grains,CVD,NGA,0.999,0.0005956027974218,False
+whole grains,Stroke,NGA,0.999,0.0001089694682344,False
+whole grains,Hypertension,NGA,0.999,0.0005976707623099,False
+cheese,Stroke,PAK,0.999,1.71622903200053e-06,False
+cheese,Hypertension,PAK,0.999,9.18483762379907e-07,False
+non-starchy vegetables,CVD,PAK,0.999,5.40163838991248e-07,False
+non-starchy vegetables,Stroke,PAK,0.999,1.04016761137693e-06,False
+potatoes,Stroke,PAK,0.999,0.0002642154857246,False
+potatoes,Hypertension,PAK,0.999,0.0014994080132571,False
+refined grains,CVD,PAK,0.999,0.0018203947508851,False
+refined grains,Hypertension,PAK,0.999,0.0002691653357972,False
+tea,CVD,PAK,0.999,1.04890134355884e-08,False
+tea,Stroke,PAK,0.999,2.03388481612166e-08,False
+total milk,CVD,PAK,0.999,0.0029697559447994,False
+total milk,Stroke,PAK,0.999,0.0034691819746937,False
+total milk,Hypertension,PAK,0.999,0.0029697559447994,False
+whole grains,CVD,PAK,0.999,0.0048436239238294,False
+whole grains,Stroke,PAK,0.999,0.0007808857616465,False
+whole grains,Hypertension,PAK,0.999,0.0048651144444416,False
+fruits,CVD,PER,0.999,0.0108869912371306,False
+fruits,Stroke,PER,0.999,0.0153801327166878,False
+fruits,Hypertension,PER,0.999,0.0051181823895372,False
+non-starchy vegetables,CVD,PER,0.999,0.0112321677517156,False
+non-starchy vegetables,Stroke,PER,0.999,0.0172747181198281,False
+other starchy vegetables,Stroke,PER,0.999,4.71925195096867e-05,False
+other starchy vegetables,Hypertension,PER,0.999,0.0008384325441525,False
+potatoes,Stroke,PER,0.999,8.339607329155289e-07,False
+potatoes,Hypertension,PER,0.999,0.0019492239867848,False
+refined grains,CVD,PER,0.999,0.0001133958092548,False
+refined grains,Hypertension,PER,0.999,4.9502330197182e-06,False
+whole grains,CVD,PER,0.999,0.0001181483729555,False
+whole grains,Stroke,PER,0.999,1.07530283246504e-05,False
+whole grains,Hypertension,PER,0.999,0.0001190481573681,False
+beans and legumes,CVD,PHL,0.999,0.0008334852138109,False
+beans and legumes,Hypertension,PHL,0.999,0.0001972929930196,False
+coffee,Hypertension,PHL,0.999,2.73776445958163e-09,False
+fruits,CVD,PHL,0.999,0.001083611925438,False
+fruits,Stroke,PHL,0.999,0.0015198896065056,False
+fruits,Hypertension,PHL,0.999,0.0005122893697167,False
+non-starchy vegetables,CVD,PHL,0.999,8.76418592430373e-05,False
+non-starchy vegetables,Stroke,PHL,0.999,0.0001597243533056,False
+other starchy vegetables,Stroke,PHL,0.999,6.31983380315226e-05,False
+other starchy vegetables,Hypertension,PHL,0.999,0.160692883920835,False
+refined grains,CVD,PHL,0.999,0.0040345213408411,False
+refined grains,Hypertension,PHL,0.999,9.09317260755493e-07,False
+seafood,Stroke,PHL,0.999,0.0033605456998377,False
+seafood,Hypertension,PHL,0.999,0.0015319991112579,False
+eggs,Stroke,PHL,0.999,1.4382989781662e-05,False
+eggs,Hypertension,PHL,0.999,0.0011549452089747,False
+potatoes,Stroke,PHL,0.999,3.76977458502366e-05,False
+potatoes,Hypertension,PHL,0.999,0.0002375152978102,False
+processed meats,CVD,PHL,0.999,5.50505253603395e-05,False
+processed meats,Stroke,PHL,0.999,0.0001564455264723,False
+processed meats,Hypertension,PHL,0.999,0.0001904233967782,False
+sugar-sweetened beverages,CVD,PHL,0.999,0.0006004538246678,False
+sugar-sweetened beverages,Stroke,PHL,0.999,0.0003519183222137,False
+sugar-sweetened beverages,Hypertension,PHL,0.999,0.0003519183222137,False
+unprocessed red meats,CVD,PHL,0.999,0.0008140628813014,False
+unprocessed red meats,Stroke,PHL,0.999,0.0009749404573288,False
+unprocessed red meats,Hypertension,PHL,0.999,0.0013430023205917,False
+cheese,Stroke,ROU,0.999,7.20812466843412e-05,False
+cheese,Hypertension,ROU,0.999,3.86459175513165e-05,False
+coffee,Hypertension,ROU,0.999,2.83846096071905e-07,False
+eggs,Stroke,ROU,0.999,3.87898418940935e-08,False
+eggs,Hypertension,ROU,0.999,3.8437502060118e-06,False
+fruits,CVD,ROU,0.999,0.0006644538475252,False
+fruits,Stroke,ROU,0.999,0.0009348049314712,False
+fruits,Hypertension,ROU,0.999,0.0003134448496417,False
+non-starchy vegetables,CVD,ROU,0.999,0.0062940312249093,False
+non-starchy vegetables,Stroke,ROU,0.999,0.0098943279340302,False
+other starchy vegetables,Stroke,ROU,0.999,2.17148988790328e-08,False
+other starchy vegetables,Hypertension,ROU,0.999,0.0006560681003183,False
+potatoes,Stroke,ROU,0.999,6.6515489005603e-08,False
+potatoes,Hypertension,ROU,0.999,0.0001750244467313,False
+processed meats,CVD,ROU,0.999,8.895797340791051e-05,False
+processed meats,Stroke,ROU,0.999,0.0004093740411842,False
+processed meats,Hypertension,ROU,0.999,0.0005960250512876,False
+refined grains,CVD,ROU,0.999,0.0001571536093863,False
+refined grains,Hypertension,ROU,0.999,3.12883512776363e-06,False
+sugar-sweetened beverages,CVD,ROU,0.999,9.18131254517007e-05,False
+sugar-sweetened beverages,Stroke,ROU,0.999,5.27466016785327e-05,False
+sugar-sweetened beverages,Hypertension,ROU,0.999,5.27466016785327e-05,False
+total milk,CVD,ROU,0.999,0.0005520915939779,False
+total milk,Stroke,ROU,0.999,0.0006383900071463,False
+total milk,Hypertension,ROU,0.999,0.0005520915939779,False
+unprocessed red meats,CVD,ROU,0.999,8.2840657485983e-05,False
+unprocessed red meats,Stroke,ROU,0.999,0.0001307004406319,False
+unprocessed red meats,Hypertension,ROU,0.999,0.0002457821289901,False
+beans and legumes,CVD,TUN,0.999,0.0040204516518619,False
+beans and legumes,Hypertension,TUN,0.999,0.0007811508442225001,False
+cheese,Stroke,TUN,0.999,0.0001404746463864,False
+cheese,Hypertension,TUN,0.999,7.54644674683114e-05,False
+coffee,Hypertension,TUN,0.999,1.86575526694988e-07,False
+eggs,Stroke,TUN,0.999,3.2674944039357e-07,False
+eggs,Hypertension,TUN,0.999,3.0510881421808e-05,False
+fruits,CVD,TUN,0.999,0.0295781367466449,False
+fruits,Stroke,TUN,0.999,0.0421820398176786,False
+fruits,Hypertension,TUN,0.999,0.0137545693928047,False
+non-starchy vegetables,CVD,TUN,0.999,0.0094068638378354,False
+non-starchy vegetables,Stroke,TUN,0.999,0.0148345775098516,False
+nuts and seeds,CVD,TUN,0.999,0.0049237369939301,False
+nuts and seeds,Stroke,TUN,0.999,0.0002596365499509,False
+nuts and seeds,Hypertension,TUN,0.999,0.0066371823757643,False
+potatoes,Stroke,TUN,0.999,6.76536828055907e-05,False
+potatoes,Hypertension,TUN,0.999,0.0004513790104281,False
+processed meats,CVD,TUN,0.999,2.58038202640698e-05,False
+processed meats,Stroke,TUN,0.999,7.07254611638231e-05,False
+processed meats,Hypertension,TUN,0.999,8.5636715830173e-05,False
+refined grains,CVD,TUN,0.999,0.0007750201062838,False
+refined grains,Hypertension,TUN,0.999,2.14184225910685e-12,False
+seafood,Stroke,TUN,0.999,0.0007371313702446,False
+seafood,Hypertension,TUN,0.999,0.0002838136326266,False
+sugar-sweetened beverages,CVD,TUN,0.999,3.51432813338048e-05,False
+sugar-sweetened beverages,Stroke,TUN,0.999,1.70850937593059e-05,False
+sugar-sweetened beverages,Hypertension,TUN,0.999,1.70850937593059e-05,False
+total milk,CVD,TUN,0.999,0.0010001605505929,False
+total milk,Stroke,TUN,0.999,0.0011615084170209,False
+total milk,Hypertension,TUN,0.999,0.0010001605505929,False
+whole grains,CVD,TUN,0.999,0.001373271243292,False
+whole grains,Stroke,TUN,0.999,0.0002520664533811,False
+whole grains,Hypertension,TUN,0.999,0.0013781196168044,False
+other starchy vegetables,Stroke,TUN,0.999,0.0001071269288909,False
+other starchy vegetables,Hypertension,TUN,0.999,0.0003234951752644,False
+unprocessed red meats,CVD,TUN,0.999,0.0007559835175595,False
+unprocessed red meats,Stroke,TUN,0.999,0.0008170530743234,False
+unprocessed red meats,Hypertension,TUN,0.999,0.0009357083274976001,False
+fruits,CVD,UGA,0.999,0.0075399905995031,False
+fruits,Stroke,UGA,0.999,0.0104064887101861,False
+fruits,Hypertension,UGA,0.999,0.0036364168565701,False
+non-starchy vegetables,CVD,UGA,0.999,9.88173047227203e-05,False
+non-starchy vegetables,Stroke,UGA,0.999,0.0001739539188324,False
+nuts and seeds,CVD,UGA,0.999,6.33231856650429e-05,False
+nuts and seeds,Stroke,UGA,0.999,2.99629555811087e-06,False
+nuts and seeds,Hypertension,UGA,0.999,9.01703797308029e-05,False
+other starchy vegetables,Stroke,UGA,0.999,1.90958360235527e-14,False
+other starchy vegetables,Hypertension,UGA,0.999,0.0157479428763457,False
+seafood,Stroke,UGA,0.999,0.0019787995103591,False
+seafood,Hypertension,UGA,0.999,0.0011074240622273,False
+whole grains,CVD,UGA,0.999,0.0010879161440712,False
+whole grains,Stroke,UGA,0.999,0.0001785762251269,False
+whole grains,Hypertension,UGA,0.999,0.0010926674774374,False
+beans and legumes,CVD,ZMB,0.999,0.0037316451713022,False
+beans and legumes,Hypertension,ZMB,0.999,0.0008554876077855,False
+non-starchy vegetables,CVD,ZMB,0.999,0.0017969345953369,False
+non-starchy vegetables,Stroke,ZMB,0.999,0.0029743946618257,False
+nuts and seeds,CVD,ZMB,0.999,0.0003622811214545,False
+nuts and seeds,Stroke,ZMB,0.999,1.76499312047884e-05,False
+nuts and seeds,Hypertension,ZMB,0.999,0.0005076705357892,False
+beans and legumes,CVD,USA,0.999,0.0012288281281003,False
+beans and legumes,Hypertension,USA,0.999,0.0002996289722636,False
+cheese,Stroke,USA,0.999,0.0002165659709224,False
+cheese,Hypertension,USA,0.999,0.000116200506479,False
+coffee,Hypertension,USA,0.999,0.0007743199540294,False
+eggs,Stroke,USA,0.999,1.50656158500898e-08,False
+eggs,Hypertension,USA,0.999,1.13319228221633e-06,False
+fruits,CVD,USA,0.999,0.005523500539079,False
+fruits,Stroke,USA,0.999,0.0075869826065269,False
+fruits,Hypertension,USA,0.999,0.0026788620627115,False
+non-starchy vegetables,CVD,USA,0.999,0.001095671741879,False
+non-starchy vegetables,Stroke,USA,0.999,0.0016571449337294,False
+nuts and seeds,CVD,USA,0.999,0.0007135875397707,False
+nuts and seeds,Stroke,USA,0.999,3.80665580789197e-05,False
+nuts and seeds,Hypertension,USA,0.999,0.0009550243298549,False
+other starchy vegetables,Stroke,USA,0.999,1.1052343877882e-07,False
+other starchy vegetables,Hypertension,USA,0.999,1.53448335826756e-05,False
+processed meats,CVD,USA,0.999,0.0002014007821577,False
+processed meats,Stroke,USA,0.999,0.0005406426728005,False
+processed meats,Hypertension,USA,0.999,0.0006532168164269,False
+refined grains,CVD,USA,0.999,0.0001679058784985,False
+refined grains,Hypertension,USA,0.999,0.0001626949318102,False
+seafood,Stroke,USA,0.999,6.01563534126992e-05,False
+seafood,Hypertension,USA,0.999,5.74009565837086e-05,False
+sugar-sweetened beverages,CVD,USA,0.999,0.0014648901940071,False
+sugar-sweetened beverages,Stroke,USA,0.999,0.0008490918730148001,False
+sugar-sweetened beverages,Hypertension,USA,0.999,0.0008490918730148001,False
+tea,CVD,USA,0.999,0.0002762042284133,False
+tea,Stroke,USA,0.999,0.0005299269364574,False
+total milk,CVD,USA,0.999,0.002324944040904,False
+total milk,Stroke,USA,0.999,0.002670754080307,False
+total milk,Hypertension,USA,0.999,0.002324944040904,False
+unprocessed red meats,CVD,USA,0.999,0.0001430558897255,False
+unprocessed red meats,Stroke,USA,0.999,0.0001725082089661,False
+unprocessed red meats,Hypertension,USA,0.999,0.0002399809579743,False
+whole grains,CVD,USA,0.999,0.0020204442540347,False
+whole grains,Stroke,USA,0.999,0.0003851420802272,False
+whole grains,Hypertension,USA,0.999,0.0020269875150205,False
+potatoes,Stroke,USA,0.999,3.11695902904807e-06,False
+potatoes,Hypertension,USA,0.999,8.84027070004826e-05,False

@@ -1,0 +1,58 @@
+source,food_group,food_order,n_units_total,n_units_at_least_two_estimable,n_units_all_three_estimable,mean_mean_abs_log_sigma_ratio,median_mean_abs_log_sigma_ratio,mean_max_abs_log_sigma_ratio,median_max_abs_log_sigma_ratio,max_max_abs_log_sigma_ratio,n_very_stable,n_stable,n_moderate,n_unstable,proportion_very_stable_or_stable,min_units_required,source_age_stability,interpretation
+CHNS,fruits,1,4,4,4,0.095393264,0.091238361,0.143089896,0.136857542,0.213601447,2,2,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,fruits,1,39,12,6,0.194575392,0.099711528,0.230121478,0.123415724,0.910817716,7,1,2,2,0.205128205,5,stable,Age-group shape differences were small.
+NHANES,fruits,1,8,8,8,0.176765099,0.128913378,0.265147649,0.193370067,0.908946014,2,5,0,1,0.875,5,stable,Age-group shape differences were small.
+CHNS,non-starchy vegetables,2,4,4,4,0.048079746,0.046533759,0.072119618,0.069800638,0.100576134,4,0,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,non-starchy vegetables,2,39,23,7,0.356302784,0.2316846,0.373759563,0.2316846,1.972315232,8,5,3,7,0.333333333,5,moderate,Age-group shape differences were moderate.
+NHANES,non-starchy vegetables,2,8,8,8,0.321710135,0.231905286,0.482565202,0.34785793,1.435568524,1,2,3,2,0.375,5,moderate,Age-group shape differences were moderate.
+CHNS,potatoes,3,4,4,4,0.077594106,0.09393001,0.11639116,0.140895016,0.169921833,2,2,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,potatoes,3,39,9,5,0.449770133,0.348339834,0.55776413,0.348339834,1.746852941,0,3,3,3,0.076923077,5,unstable,Age-group shape differences were large.
+NHANES,potatoes,3,8,8,6,0.503469618,0.312257335,0.665028224,0.468386002,1.752891103,1,2,1,4,0.375,5,unstable,Age-group shape differences were large.
+CHNS,other starchy vegetables,4,4,4,4,0.026762355,0.028840067,0.040143533,0.043260101,0.066903136,4,0,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,other starchy vegetables,4,39,16,5,0.221388342,0.11666805,0.248346155,0.136500745,0.93724378,9,2,2,3,0.282051282,5,stable,Age-group shape differences were small.
+NHANES,other starchy vegetables,4,8,2,0,0.131154988,0.131154988,0.131154988,0.131154988,0.1456981,2,0,0,0,0.25,5,not_assessable,Too few units with at least two estimable age groups.
+CHNS,beans and legumes,5,4,4,4,0.082169971,0.075037071,0.123254956,0.112555606,0.200603877,3,1,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,beans and legumes,5,39,8,4,0.139352628,0.10027109,0.149866039,0.119140987,0.426822731,5,2,1,0,0.179487179,5,very_stable,Age-group shape differences were very small.
+NHANES,beans and legumes,5,8,6,4,0.515235114,0.498618989,0.729142647,0.634442376,1.652864801,1,0,2,3,0.125,5,unstable,Age-group shape differences were large.
+CHNS,nuts and seeds,6,4,4,4,0.109857071,0.130063235,0.164785606,0.195094853,0.202192613,1,3,0,0,1,3,stable,Age-group shape differences were small.
+FAO_GIFT,nuts and seeds,6,39,8,4,0.181359453,0.107617082,0.213569661,0.154327808,0.482153668,4,2,2,0,0.153846154,5,stable,Age-group shape differences were small.
+NHANES,nuts and seeds,6,8,8,7,0.20272135,0.181155793,0.2909235,0.233682643,0.750110992,2,4,1,1,0.75,5,stable,Age-group shape differences were small.
+CHNS,refined grains,7,4,4,4,0.057083356,0.05949881,0.085625034,0.089248215,0.121021707,4,0,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,refined grains,7,39,20,8,0.225374362,0.133883846,0.245983976,0.155150845,0.928010171,10,5,2,3,0.384615385,5,stable,Age-group shape differences were small.
+NHANES,refined grains,7,8,8,8,0.246280634,0.218264201,0.369420952,0.327396301,0.735414326,1,3,2,2,0.5,5,moderate,Age-group shape differences were moderate.
+CHNS,whole grains,8,4,4,4,0.059246751,0.047916269,0.088870126,0.071874403,0.169846446,3,1,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,whole grains,8,39,9,4,0.252737492,0.148327315,0.283336497,0.193133485,0.845995399,4,2,2,1,0.153846154,5,stable,Age-group shape differences were small.
+NHANES,whole grains,8,8,8,7,0.18858267,0.157588092,0.251169888,0.236382138,0.507265871,2,3,2,1,0.625,5,stable,Age-group shape differences were small.
+CHNS,processed meats,9,4,4,3,0.226858208,0.174938227,0.318917415,0.219667545,0.741074082,1,2,0,1,0.75,3,moderate,Age-group shape differences were moderate.
+FAO_GIFT,processed meats,9,39,8,4,0.13519768,0.129404459,0.168306626,0.144461395,0.442937285,5,2,1,0,0.179487179,5,stable,Age-group shape differences were small.
+NHANES,processed meats,9,8,8,8,0.320153122,0.234722956,0.480229684,0.352084434,1.02999779,1,1,3,3,0.25,5,moderate,Age-group shape differences were moderate.
+CHNS,unprocessed red meats,10,4,4,4,0.077187777,0.060068269,0.115781665,0.090102404,0.204027281,3,1,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,unprocessed red meats,10,39,9,4,0.210954903,0.091719079,0.227926585,0.10894942,0.544883224,5,1,1,2,0.153846154,5,stable,Age-group shape differences were small.
+NHANES,unprocessed red meats,10,8,7,2,0.396397313,0.392246809,0.451711293,0.573223371,0.742189237,2,0,1,4,0.25,5,moderate,Age-group shape differences were moderate.
+CHNS,seafood,11,4,4,4,0.154949267,0.116586569,0.2324239,0.174879853,0.469048254,2,1,1,0,0.75,3,stable,Age-group shape differences were small.
+FAO_GIFT,seafood,11,39,13,3,0.347049425,0.164660867,0.361511701,0.246991301,0.96099915,4,4,2,3,0.205128205,5,moderate,Age-group shape differences were moderate.
+NHANES,seafood,11,8,5,2,0.679655229,0.661313244,0.780149253,0.979029588,1.034233217,0,0,1,4,0,5,unstable,Age-group shape differences were large.
+CHNS,eggs,12,4,4,4,0.095952853,0.107438924,0.143929279,0.161158386,0.224536079,2,2,0,0,1,3,very_stable,Age-group shape differences were very small.
+FAO_GIFT,eggs,12,39,10,3,0.299136635,0.20165111,0.316543408,0.242611027,0.87951143,1,6,1,2,0.179487179,5,moderate,Age-group shape differences were moderate.
+NHANES,eggs,12,8,8,7,0.26362024,0.239863914,0.377661111,0.288718873,0.802456949,1,4,0,3,0.625,5,moderate,Age-group shape differences were moderate.
+CHNS,cheese,13,4,0,0,,,,,,0,0,0,0,0,3,not_assessable,Too few units with at least two estimable age groups.
+FAO_GIFT,cheese,13,39,5,4,0.174460992,0.154630759,0.238830233,0.23145383,0.437716528,1,3,1,0,0.102564103,5,stable,Age-group shape differences were small.
+NHANES,cheese,13,8,8,8,0.445819071,0.259793067,0.668728607,0.389689601,2.126616843,1,1,3,3,0.25,5,unstable,Age-group shape differences were large.
+CHNS,yoghurt,14,4,2,2,0.472252345,0.472252345,0.708378517,0.708378517,1.39507065,1,0,0,1,0.25,3,not_assessable,Too few units with at least two estimable age groups.
+FAO_GIFT,yoghurt,14,39,6,5,0.186430857,0.174148863,0.266331902,0.261223295,0.432097884,0,4,2,0,0.102564103,5,stable,Age-group shape differences were small.
+NHANES,yoghurt,14,8,6,3,0.385284602,0.331417786,0.520106757,0.382268577,1.266983618,1,1,2,2,0.25,5,unstable,Age-group shape differences were large.
+CHNS,sugar-sweetened beverages,15,4,2,1,0.086249194,0.086249194,0.105830245,0.105830245,0.11748631,2,0,0,0,0.5,3,not_assessable,Too few units with at least two estimable age groups.
+FAO_GIFT,sugar-sweetened beverages,15,39,10,3,0.222744924,0.111836273,0.251141831,0.130998629,0.836720135,5,2,0,3,0.179487179,5,stable,Age-group shape differences were small.
+NHANES,sugar-sweetened beverages,15,8,8,8,0.187543729,0.19385253,0.281315593,0.290778796,0.465690444,2,3,3,0,0.625,5,stable,Age-group shape differences were small.
+CHNS,fruit juices,16,4,0,0,,,,,,0,0,0,0,0,3,not_assessable,Too few units with at least two estimable age groups.
+FAO_GIFT,fruit juices,16,39,5,4,0.086785528,0.044513365,0.127212907,0.066770047,0.24430651,3,2,0,0,0.128205128,5,very_stable,Age-group shape differences were very small.
+NHANES,fruit juices,16,8,7,7,0.174447374,0.192178803,0.261671062,0.288268205,0.519756517,3,2,1,1,0.625,5,stable,Age-group shape differences were small.
+CHNS,coffee,17,4,0,0,,,,,,0,0,0,0,0,3,not_assessable,Too few units with at least two estimable age groups.
+FAO_GIFT,coffee,17,39,8,4,0.038286328,0.026711857,0.044087389,0.033157477,0.099450409,8,0,0,0,0.205128205,5,very_stable,Age-group shape differences were very small.
+NHANES,coffee,17,8,7,7,0.165440423,0.147693957,0.248160634,0.221540936,0.367302587,0,5,2,0,0.625,5,stable,Age-group shape differences were small.
+CHNS,tea,18,4,1,0,0.216109353,0.216109353,0.216109353,0.216109353,0.216109353,0,1,0,0,0.25,3,not_assessable,Too few units with at least two estimable age groups.
+FAO_GIFT,tea,18,39,3,2,0.344397784,0.277393299,0.414737242,0.416089949,0.611156608,0,1,1,1,0.025641026,5,not_assessable,Too few units with at least two estimable age groups.
+NHANES,tea,18,8,7,7,0.180220963,0.077365992,0.270331444,0.116048988,0.630322322,4,0,1,2,0.5,5,stable,Age-group shape differences were small.
+CHNS,total milk,19,4,4,4,0.164493617,0.190507824,0.246740426,0.285761736,0.358092823,1,1,2,0,0.5,3,stable,Age-group shape differences were small.
+FAO_GIFT,total milk,19,39,9,6,0.229130217,0.154040115,0.276577796,0.157451801,0.647812798,4,2,0,3,0.153846154,5,stable,Age-group shape differences were small.
+NHANES,total milk,19,8,7,7,0.123356771,0.128573032,0.185035156,0.192859548,0.358243769,3,3,1,0,0.75,5,stable,Age-group shape differences were small.

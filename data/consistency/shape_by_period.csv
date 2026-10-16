@@ -1,0 +1,210 @@
+source,time_id,food_group,sigma_log_amount,status
+CHNS,2004,fruits,0.585958629810604,success
+CHNS,2006,fruits,0.629404277102658,success
+CHNS,2009,fruits,0.535297374427624,success
+CHNS,2011,fruits,0.523422569538183,success
+CHNS,2004,non-starchy vegetables,0.484394615617769,success
+CHNS,2006,non-starchy vegetables,0.466805393504555,success
+CHNS,2009,non-starchy vegetables,0.445476689545754,success
+CHNS,2011,non-starchy vegetables,0.484269516134643,success
+CHNS,2004,potatoes,0.474101651154692,success
+CHNS,2006,potatoes,0.44473483259849,success
+CHNS,2009,potatoes,0.425852402599855,success
+CHNS,2011,potatoes,0.486786703729135,success
+CHNS,2004,other starchy vegetables,0.756330710288726,success
+CHNS,2006,other starchy vegetables,0.787698550951269,success
+CHNS,2009,other starchy vegetables,0.775181919912548,success
+CHNS,2011,other starchy vegetables,0.672122348644008,success
+CHNS,2004,beans and legumes,0.69907840429594,success
+CHNS,2006,beans and legumes,0.787128746595693,success
+CHNS,2009,beans and legumes,0.726015013208257,success
+CHNS,2011,beans and legumes,0.747099861230177,success
+CHNS,2004,nuts and seeds,0.619462053870378,success
+CHNS,2006,nuts and seeds,0.62739775999018,success
+CHNS,2009,nuts and seeds,0.662066225143304,success
+CHNS,2011,nuts and seeds,0.63742285856614,success
+CHNS,2004,refined grains,0.379514009604682,success
+CHNS,2006,refined grains,0.412481555903007,success
+CHNS,2009,refined grains,0.396867071620677,success
+CHNS,2011,refined grains,0.457818279218069,success
+CHNS,2004,whole grains,0.748539673281916,success
+CHNS,2006,whole grains,0.741267628414135,success
+CHNS,2009,whole grains,0.778282915834302,success
+CHNS,2011,whole grains,0.795785542074068,success
+CHNS,2004,processed meats,0.371728595487653,success
+CHNS,2006,processed meats,0.519185739201422,success
+CHNS,2009,processed meats,0.585881309396044,success
+CHNS,2011,processed meats,0.569907242106645,success
+CHNS,2004,unprocessed red meats,0.491400604745596,success
+CHNS,2006,unprocessed red meats,0.482467784521424,success
+CHNS,2009,unprocessed red meats,0.469644321512194,success
+CHNS,2011,unprocessed red meats,0.481555198209355,success
+CHNS,2004,seafood,0.470252594856231,success
+CHNS,2006,seafood,0.474500050995739,success
+CHNS,2009,seafood,0.492696952868623,success
+CHNS,2011,seafood,0.485672343684872,success
+CHNS,2004,eggs,0.404347921523344,success
+CHNS,2006,eggs,0.33980532495486,success
+CHNS,2009,eggs,0.399181049171197,success
+CHNS,2011,eggs,0.316606752771317,success
+CHNS,2004,cheese,,failed
+CHNS,2006,cheese,,failed
+CHNS,2009,cheese,,failed
+CHNS,2011,cheese,,failed
+CHNS,2004,yoghurt,0.418077881825895,success
+CHNS,2006,yoghurt,0.390666354254905,success
+CHNS,2009,yoghurt,0.274501914730711,success
+CHNS,2011,yoghurt,0.396107975495614,success
+CHNS,2004,sugar-sweetened beverages,,failed
+CHNS,2006,sugar-sweetened beverages,0.413912720570103,success
+CHNS,2009,sugar-sweetened beverages,0.538427873202205,success
+CHNS,2011,sugar-sweetened beverages,0.5596835350692,success
+CHNS,2004,fruit juices,,failed
+CHNS,2006,fruit juices,,failed
+CHNS,2009,fruit juices,,failed
+CHNS,2011,fruit juices,,failed
+CHNS,2004,coffee,,failed
+CHNS,2006,coffee,,failed
+CHNS,2009,coffee,,failed
+CHNS,2011,coffee,1.26268663370313,success
+CHNS,2004,tea,,failed
+CHNS,2006,tea,,failed
+CHNS,2009,tea,1.41245920696145,success
+CHNS,2011,tea,1.01728350305478,success
+CHNS,2004,total milk,0.499184647493255,success
+CHNS,2006,total milk,0.560873797330281,success
+CHNS,2009,total milk,0.494938016298224,success
+CHNS,2011,total milk,0.399696167189929,success
+NHANES,2005-2006,fruits,0.606031590259493,success
+NHANES,2007-2008,fruits,0.50994358369242,success
+NHANES,2009-2010,fruits,0.611942622143736,success
+NHANES,2011-2012,fruits,0.479564237137372,success
+NHANES,2013-2014,fruits,0.426411411421619,success
+NHANES,2015-2016,fruits,0.626914736206691,success
+NHANES,2017-2018,fruits,0.505555075981965,success
+NHANES,2005-2006,non-starchy vegetables,0.607388475915789,success
+NHANES,2007-2008,non-starchy vegetables,0.590205848970757,success
+NHANES,2009-2010,non-starchy vegetables,0.706354154213763,success
+NHANES,2011-2012,non-starchy vegetables,0.574238579628936,success
+NHANES,2013-2014,non-starchy vegetables,0.622039858302402,success
+NHANES,2015-2016,non-starchy vegetables,0.540268050457386,success
+NHANES,2017-2018,non-starchy vegetables,0.542030309130873,success
+NHANES,2005-2006,potatoes,0.203486177230117,success
+NHANES,2007-2008,potatoes,0.455591577864859,success
+NHANES,2009-2010,potatoes,0.375889371081309,success
+NHANES,2011-2012,potatoes,0.651482789696532,success
+NHANES,2013-2014,potatoes,0.290744877716356,success
+NHANES,2015-2016,potatoes,0.404077636994149,success
+NHANES,2017-2018,potatoes,0.356943696473387,success
+NHANES,2005-2006,other starchy vegetables,0.443052062846034,success
+NHANES,2007-2008,other starchy vegetables,0.519219387778339,success
+NHANES,2009-2010,other starchy vegetables,0.51374307368349,success
+NHANES,2011-2012,other starchy vegetables,0.637345805394062,success
+NHANES,2013-2014,other starchy vegetables,0.0,success
+NHANES,2015-2016,other starchy vegetables,0.417146498001589,success
+NHANES,2017-2018,other starchy vegetables,0.595814481900398,success
+NHANES,2005-2006,beans and legumes,0.527976191856946,success
+NHANES,2007-2008,beans and legumes,0.0,success
+NHANES,2009-2010,beans and legumes,0.0,success
+NHANES,2011-2012,beans and legumes,0.457472824838707,success
+NHANES,2013-2014,beans and legumes,0.498906143413904,success
+NHANES,2015-2016,beans and legumes,0.54797799487132,success
+NHANES,2017-2018,beans and legumes,0.426583626759339,success
+NHANES,2005-2006,nuts and seeds,0.589633020143628,success
+NHANES,2007-2008,nuts and seeds,0.634442820412749,success
+NHANES,2009-2010,nuts and seeds,0.696020665394405,success
+NHANES,2011-2012,nuts and seeds,0.694136289331215,success
+NHANES,2013-2014,nuts and seeds,0.878093983752642,success
+NHANES,2015-2016,nuts and seeds,0.923299962021598,success
+NHANES,2017-2018,nuts and seeds,0.87012250938935,success
+NHANES,2005-2006,refined grains,0.397290402594911,success
+NHANES,2007-2008,refined grains,0.476554911259858,success
+NHANES,2009-2010,refined grains,0.455937822747794,success
+NHANES,2011-2012,refined grains,0.546120037509286,success
+NHANES,2013-2014,refined grains,0.46975652901605,success
+NHANES,2015-2016,refined grains,0.358049966201827,success
+NHANES,2017-2018,refined grains,0.514186721846069,success
+NHANES,2005-2006,whole grains,0.858573948816976,success
+NHANES,2007-2008,whole grains,0.766227899018411,success
+NHANES,2009-2010,whole grains,0.74209061317733,success
+NHANES,2011-2012,whole grains,0.716149982036489,success
+NHANES,2013-2014,whole grains,0.699515133374649,success
+NHANES,2015-2016,whole grains,0.746945775342427,success
+NHANES,2017-2018,whole grains,0.678284328745779,success
+NHANES,2005-2006,processed meats,0.570031401301837,success
+NHANES,2007-2008,processed meats,0.636203117804347,success
+NHANES,2009-2010,processed meats,0.480084973485089,success
+NHANES,2011-2012,processed meats,0.496144535170161,success
+NHANES,2013-2014,processed meats,0.479184424758636,success
+NHANES,2015-2016,processed meats,0.55273840486601,success
+NHANES,2017-2018,processed meats,0.673507125750285,success
+NHANES,2005-2006,unprocessed red meats,0.530743849027977,success
+NHANES,2007-2008,unprocessed red meats,0.427314772465989,success
+NHANES,2009-2010,unprocessed red meats,0.439766233744755,success
+NHANES,2011-2012,unprocessed red meats,0.436838239681097,success
+NHANES,2013-2014,unprocessed red meats,0.17211707606269,success
+NHANES,2015-2016,unprocessed red meats,0.4250807614126,success
+NHANES,2017-2018,unprocessed red meats,0.27860529606933,success
+NHANES,2005-2006,seafood,0.600671497946459,success
+NHANES,2007-2008,seafood,0.180661710838189,success
+NHANES,2009-2010,seafood,0.307905197513108,success
+NHANES,2011-2012,seafood,0.634678281497422,success
+NHANES,2013-2014,seafood,0.42278641885596,success
+NHANES,2015-2016,seafood,0.456169766424398,success
+NHANES,2017-2018,seafood,0.0,success
+NHANES,2005-2006,eggs,0.449767561175355,success
+NHANES,2007-2008,eggs,0.501316225938217,success
+NHANES,2009-2010,eggs,0.418388082297627,success
+NHANES,2011-2012,eggs,0.625328911961959,success
+NHANES,2013-2014,eggs,0.54637792485824,success
+NHANES,2015-2016,eggs,0.501277210983498,success
+NHANES,2017-2018,eggs,0.506736485048733,success
+NHANES,2005-2006,cheese,0.588686023510451,success
+NHANES,2007-2008,cheese,0.423417249570005,success
+NHANES,2009-2010,cheese,0.535007188575849,success
+NHANES,2011-2012,cheese,0.399837436871786,success
+NHANES,2013-2014,cheese,0.401680481286586,success
+NHANES,2015-2016,cheese,0.413690656588102,success
+NHANES,2017-2018,cheese,0.324623510358449,success
+NHANES,2005-2006,yoghurt,0.0,success
+NHANES,2007-2008,yoghurt,0.428123394797621,success
+NHANES,2009-2010,yoghurt,0.283351248886119,success
+NHANES,2011-2012,yoghurt,0.121575311450363,success
+NHANES,2013-2014,yoghurt,0.542584628777922,success
+NHANES,2015-2016,yoghurt,0.373636259792748,success
+NHANES,2017-2018,yoghurt,0.482116653536829,success
+NHANES,2005-2006,sugar-sweetened beverages,0.529520116243827,success
+NHANES,2007-2008,sugar-sweetened beverages,0.588220555871268,success
+NHANES,2009-2010,sugar-sweetened beverages,0.538245503281641,success
+NHANES,2011-2012,sugar-sweetened beverages,0.477788261363768,success
+NHANES,2013-2014,sugar-sweetened beverages,0.575024800651543,success
+NHANES,2015-2016,sugar-sweetened beverages,0.596337659807622,success
+NHANES,2017-2018,sugar-sweetened beverages,0.641386721546148,success
+NHANES,2005-2006,fruit juices,0.959426239927834,success
+NHANES,2007-2008,fruit juices,0.985733623689396,success
+NHANES,2009-2010,fruit juices,1.11670176764652,success
+NHANES,2011-2012,fruit juices,1.2024588723351,success
+NHANES,2013-2014,fruit juices,0.914821591475313,success
+NHANES,2015-2016,fruit juices,1.16259220527443,success
+NHANES,2017-2018,fruit juices,1.17247432511362,success
+NHANES,2005-2006,coffee,0.639787011848805,success
+NHANES,2007-2008,coffee,0.745398511910123,success
+NHANES,2009-2010,coffee,0.62008051231037,success
+NHANES,2011-2012,coffee,0.573223606967935,success
+NHANES,2013-2014,coffee,0.519387632041515,success
+NHANES,2015-2016,coffee,0.54913590878174,success
+NHANES,2017-2018,coffee,0.57713489959686,success
+NHANES,2005-2006,tea,0.605289963374922,success
+NHANES,2007-2008,tea,0.479285624512586,success
+NHANES,2009-2010,tea,0.478852363663928,success
+NHANES,2011-2012,tea,0.629716263089945,success
+NHANES,2013-2014,tea,0.488106490033136,success
+NHANES,2015-2016,tea,0.506683957562547,success
+NHANES,2017-2018,tea,0.450756649492672,success
+NHANES,2005-2006,total milk,0.794237607171514,success
+NHANES,2007-2008,total milk,0.755328080855739,success
+NHANES,2009-2010,total milk,0.774023439150466,success
+NHANES,2011-2012,total milk,0.82088786000712,success
+NHANES,2013-2014,total milk,0.872020448822928,success
+NHANES,2015-2016,total milk,0.710893747537532,success
+NHANES,2017-2018,total milk,0.796332438558818,success

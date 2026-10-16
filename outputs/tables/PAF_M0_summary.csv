@@ -1,0 +1,2 @@
+n_country_food_outcomes,mean_abs_error_pp,median_abs_error_pp,proportion_gt_0_5pp,proportion_gt_1pp,proportion_gt_2pp
+456,0.218362524373834,0.03157450179865,0.107456140350877,0.0482456140350877,0.0131578947368421

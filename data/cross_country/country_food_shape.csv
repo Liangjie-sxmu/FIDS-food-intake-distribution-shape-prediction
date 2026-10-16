@@ -1,0 +1,86 @@
+country_code,country,food_group,sigma,primary_set
+BRA,Brazil,fruits,0.470349492190542,True
+KNA,Saint Kitts and Nevis,fruits,0.406473402782292,False
+LAO,Lao PDR,fruits,0.700107017342087,True
+MEX,Mexico,fruits,0.733367483087091,True
+PER,Peru,fruits,1.00674379835593,True
+BRA,Brazil,non-starchy vegetables,0.438951099696699,True
+KNA,Saint Kitts and Nevis,non-starchy vegetables,0.47307681444399,False
+LAO,Lao PDR,non-starchy vegetables,,True
+MEX,Mexico,non-starchy vegetables,0.683197702229765,True
+PER,Peru,non-starchy vegetables,0.857785869842826,True
+BRA,Brazil,whole grains,0.599574416369146,True
+LAO,Lao PDR,whole grains,,True
+MEX,Mexico,whole grains,,True
+PER,Peru,whole grains,0.586999690997691,True
+BRA,Brazil,beans and legumes,0.657996218855074,True
+LAO,Lao PDR,beans and legumes,,True
+MEX,Mexico,beans and legumes,0.823803639126288,True
+PER,Peru,beans and legumes,,True
+BRA,Brazil,refined grains,0.521888099940881,True
+KNA,Saint Kitts and Nevis,refined grains,0.31295521312458,False
+LAO,Lao PDR,refined grains,0.317475992719268,True
+MEX,Mexico,refined grains,0.492480998798557,True
+PER,Peru,refined grains,0.454076282826802,True
+BRA,Brazil,potatoes,0.365642381381465,True
+LAO,Lao PDR,potatoes,,True
+MEX,Mexico,potatoes,0.599955549083631,True
+PER,Peru,potatoes,0.623828384137247,True
+BRA,Brazil,other starchy vegetables,0.63202728192584,True
+KNA,Saint Kitts and Nevis,other starchy vegetables,0.789620426251882,False
+LAO,Lao PDR,other starchy vegetables,,True
+MEX,Mexico,other starchy vegetables,1.57757532279284,True
+PER,Peru,other starchy vegetables,0.88221421969576,True
+BRA,Brazil,nuts and seeds,0.95826758527413,True
+LAO,Lao PDR,nuts and seeds,,True
+MEX,Mexico,nuts and seeds,,True
+PER,Peru,nuts and seeds,,True
+BRA,Brazil,processed meats,0.635283531486188,True
+KNA,Saint Kitts and Nevis,processed meats,0.325046481603163,False
+LAO,Lao PDR,processed meats,,True
+MEX,Mexico,processed meats,0.489675052181549,True
+PER,Peru,processed meats,,True
+BRA,Brazil,unprocessed red meats,0.414084540666289,True
+LAO,Lao PDR,unprocessed red meats,,True
+MEX,Mexico,unprocessed red meats,0.455306391299743,True
+PER,Peru,unprocessed red meats,,True
+BRA,Brazil,seafood,0.483898611408792,True
+KNA,Saint Kitts and Nevis,seafood,0.63799614576426,False
+LAO,Lao PDR,seafood,0.436297150577417,True
+MEX,Mexico,seafood,,True
+PER,Peru,seafood,,True
+BRA,Brazil,eggs,0.33613550335067,True
+KNA,Saint Kitts and Nevis,eggs,0.619243127017806,False
+LAO,Lao PDR,eggs,,True
+MEX,Mexico,eggs,0.560759594262543,True
+PER,Peru,eggs,0.375092374069613,True
+BRA,Brazil,sugar-sweetened beverages,0.302115294142222,True
+KNA,Saint Kitts and Nevis,sugar-sweetened beverages,0.114156669346743,False
+LAO,Lao PDR,sugar-sweetened beverages,,True
+MEX,Mexico,sugar-sweetened beverages,0.444005757284768,True
+PER,Peru,sugar-sweetened beverages,0.666033125494536,True
+BRA,Brazil,fruit juices,0.294017033709256,True
+LAO,Lao PDR,fruit juices,,True
+MEX,Mexico,fruit juices,,True
+PER,Peru,fruit juices,,True
+BRA,Brazil,coffee,0.699558997019311,True
+LAO,Lao PDR,coffee,,True
+MEX,Mexico,coffee,,True
+PER,Peru,coffee,,True
+BRA,Brazil,tea,0.399616912381451,True
+KNA,Saint Kitts and Nevis,tea,0.0939411087062479,False
+LAO,Lao PDR,tea,,True
+MEX,Mexico,tea,,True
+PER,Peru,tea,,True
+BRA,Brazil,cheese,0.583379940551959,True
+LAO,Lao PDR,cheese,,True
+MEX,Mexico,cheese,0.524073073579346,True
+PER,Peru,cheese,,True
+BRA,Brazil,yoghurt,0.252398165665713,True
+LAO,Lao PDR,yoghurt,,True
+MEX,Mexico,yoghurt,,True
+PER,Peru,yoghurt,,True
+BRA,Brazil,total milk,0.667972272628127,True
+LAO,Lao PDR,total milk,,True
+MEX,Mexico,total milk,0.84733836569566,True
+PER,Peru,total milk,,True
