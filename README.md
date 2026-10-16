@@ -52,7 +52,7 @@ CmdStan is **not required** for this reader reproduction package because model f
 From R:
 
 ```r
-setwd("path/to/FIDS_prediction_reader_release_final")
+setwd("path/to/FIDS_prediction_release_final")
 source("run.R")
 ```
 
